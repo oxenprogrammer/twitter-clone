@@ -14,6 +14,7 @@ gem 'puma', '~> 5.0'
 gem 'sass-rails', '>= 6'
 # use bulma for templating
 gem 'bulma-rails', '~> 0.9.1'
+gem 'gravatar_image_tag', '~> 1.2'
 gem 'simple_form', '~> 5.1'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
 gem 'webpacker', '~> 5.0'
